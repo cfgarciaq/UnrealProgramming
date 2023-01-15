@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TopDownCpp",
+			"Path": "F:\\Univ_Artois\\UnrealEngineProjects\\Github Repos\\Nicolas Serf\\UnrealProgramming\\TopDownCpp\\Source\\TopDownCpp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TopDownCppEditor",
+			"Path": "F:\\Univ_Artois\\UnrealEngineProjects\\Github Repos\\Nicolas Serf\\UnrealProgramming\\TopDownCpp\\Source\\TopDownCppEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\unrealeditor\\inc\\topdowncpp\\topdowncppgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\topdowncppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\unrealeditor\\development\\topdowncpp\\definitions.topdowncpp.h",
+            "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\source\\topdowncpp\\topdowncppgamemode.h",
+            "g:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "g:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "g:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "g:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\unrealeditor\\inc\\topdowncpp\\topdowncppgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

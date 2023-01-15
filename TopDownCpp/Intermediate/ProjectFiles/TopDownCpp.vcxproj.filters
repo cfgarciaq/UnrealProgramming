@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TopDownCpp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TopDownCpp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TopDownCppEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TopDownCpp">
+      <UniqueIdentifier>{100D2CEC-D74E-3929-8652-8FEB86B4DDBF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TopDownCpp\TopDownCpp.Build.cs">
+      <Filter>Source\TopDownCpp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TopDownCpp\TopDownCpp.cpp">
+      <Filter>Source\TopDownCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownCpp\TopDownCpp.h">
+      <Filter>Source\TopDownCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TopDownCpp\TopDownCppCharacter.cpp">
+      <Filter>Source\TopDownCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownCpp\TopDownCppCharacter.h">
+      <Filter>Source\TopDownCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TopDownCpp\TopDownCppGameMode.cpp">
+      <Filter>Source\TopDownCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownCpp\TopDownCppGameMode.h">
+      <Filter>Source\TopDownCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TopDownCpp\TopDownCppPlayerController.cpp">
+      <Filter>Source\TopDownCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownCpp\TopDownCppPlayerController.h">
+      <Filter>Source\TopDownCpp</Filter>
+    </ClInclude>
+    <Filter Include="Source\TopDownCpp\Private">
+      <UniqueIdentifier>{931555E6-AFCB-3311-86F7-3FC5B9DD622A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TopDownCpp\Private\PDA_Guard.cpp">
+      <Filter>Source\TopDownCpp\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TopDownCpp\Public">
+      <UniqueIdentifier>{8093A474-A926-34F2-B4F9-3AD624E21F16}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TopDownCpp\Public\PDA_Guard.h">
+      <Filter>Source\TopDownCpp\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

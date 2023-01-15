@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\unrealeditor\\inc\\topdowncpp\\pda_guard.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\topdowncppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\unrealeditor\\development\\topdowncpp\\definitions.topdowncpp.h",
+            "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\source\\topdowncpp\\public\\pda_guard.h",
+            "g:\\epic games\\ue_5.0\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "g:\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "g:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\gameplaytagcontainer.generated.h",
+            "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\unrealeditor\\inc\\topdowncpp\\pda_guard.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

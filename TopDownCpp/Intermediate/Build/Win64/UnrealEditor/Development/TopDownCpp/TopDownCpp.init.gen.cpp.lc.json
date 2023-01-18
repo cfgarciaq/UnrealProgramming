@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\unrealeditor\\inc\\topdowncpp\\topdowncpp.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\topdowncppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\unrealeditor\\development\\topdowncpp\\definitions.topdowncpp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

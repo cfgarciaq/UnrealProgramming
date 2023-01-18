@@ -71,6 +71,9 @@
     <ClCompile Include="..\..\Source\TopDownCpp\Private\CharacterClassTest.cpp">
       <Filter>Source\TopDownCpp\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\TopDownCpp\Private\CustomCharacter.cpp">
+      <Filter>Source\TopDownCpp\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\TopDownCpp\Private\GameModeTest.cpp">
       <Filter>Source\TopDownCpp\Private</Filter>
     </ClCompile>
@@ -87,6 +90,9 @@
       <Filter>Source\TopDownCpp\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\TopDownCpp\Public\CharacterClassTest.h">
+      <Filter>Source\TopDownCpp\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TopDownCpp\Public\CustomCharacter.h">
       <Filter>Source\TopDownCpp\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\TopDownCpp\Public\GameModeTest.h">

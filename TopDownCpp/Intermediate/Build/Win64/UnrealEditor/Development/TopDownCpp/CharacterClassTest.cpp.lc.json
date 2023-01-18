@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\source\\topdowncpp\\private\\characterclasstest.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\topdowncppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\unrealeditor\\development\\topdowncpp\\definitions.topdowncpp.h",
+            "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\source\\topdowncpp\\public\\characterclasstest.h",
+            "g:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "g:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "g:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "g:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "g:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "g:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "f:\\univ_artois\\unrealengineprojects\\github repos\\nicolas serf\\unrealprogramming\\topdowncpp\\intermediate\\build\\win64\\unrealeditor\\inc\\topdowncpp\\characterclasstest.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -25,10 +25,11 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	/*
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		FVector v3_location;
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
-		FGameplayTag tag;
+		FGameplayTag tag;*/
 
 };

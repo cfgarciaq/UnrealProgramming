@@ -17,6 +17,9 @@ AActorClassTest::AActorClassTest()
 void AActorClassTest::BeginPlay()
 {
 	Super::BeginPlay();
+
+	
+
 	
 }
 
@@ -25,4 +28,9 @@ void AActorClassTest::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	FVector location = GetActorLocation();
+
+	location.X += 25.0 * DeltaTime;
+	
+	SetActorLocation(location);
 }

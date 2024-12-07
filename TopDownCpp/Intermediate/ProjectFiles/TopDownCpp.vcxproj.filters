@@ -32,6 +32,12 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
     <Filter Include="Source\TopDownCpp">
       <UniqueIdentifier>{100D2CEC-D74E-3929-8652-8FEB86B4DDBF}</UniqueIdentifier>
     </Filter>
@@ -80,7 +86,13 @@
     <ClCompile Include="..\..\Source\TopDownCpp\Private\GameStateTest.cpp">
       <Filter>Source\TopDownCpp\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\TopDownCpp\Private\MyUserWidget.cpp">
+      <Filter>Source\TopDownCpp\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\TopDownCpp\Private\PDA_Guard.cpp">
+      <Filter>Source\TopDownCpp\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TopDownCpp\Private\UFO01.cpp">
       <Filter>Source\TopDownCpp\Private</Filter>
     </ClCompile>
     <Filter Include="Source\TopDownCpp\Public">
@@ -101,8 +113,24 @@
     <ClInclude Include="..\..\Source\TopDownCpp\Public\GameStateTest.h">
       <Filter>Source\TopDownCpp\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\TopDownCpp\Public\MyUserWidget.h">
+      <Filter>Source\TopDownCpp\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\TopDownCpp\Public\PDA_Guard.h">
       <Filter>Source\TopDownCpp\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\TopDownCpp\Public\UFO01.h">
+      <Filter>Source\TopDownCpp\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\TopDownCpp\Public\BindExemple.h">
+      <Filter>Source\TopDownCpp\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\TopDownCpp\Private\BindExemple.cpp">
+      <Filter>Source\TopDownCpp\Private</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
